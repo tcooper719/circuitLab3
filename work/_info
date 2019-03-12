@@ -1,0 +1,118 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/hdl/test/lab2
+vfullAdder
+Z0 !s110 1519958655
+!i10b 1
+!s100 >O@PHVZ7hDe<X_zJQj@LG1
+IRcCWL1W85VmM2gW_XEm:a3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/code/lab3
+w1519954303
+8D:/code/lab3/fullAdder.v
+FD:/code/lab3/fullAdder.v
+L0 1
+Z3 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1519958655.000000
+!s107 D:/code/lab3/fullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/code/lab3/fullAdder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+nfull@adder
+vhalfAdder
+R0
+!i10b 1
+!s100 bXm3J3gPc:C;HZNNBDDdI3
+I5Z]6^AWBL7lR^^kak4V4I1
+R1
+R2
+w1519952782
+8D:/code/lab3/halfAdder.v
+FD:/code/lab3/halfAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/code/lab3/halfAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/code/lab3/halfAdder.v|
+!i113 1
+R5
+R6
+nhalf@adder
+vripple_carry_8_bit_adder
+R0
+!i10b 1
+!s100 QWC_c7IEX4mAD1CPKgXVY0
+InBiRVzd>2fSM;9jeUO`mG2
+R1
+R2
+w1519951392
+8D:/code/lab3/adder.v
+FD:/code/lab3/adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/code/lab3/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/code/lab3/adder.v|
+!i113 1
+R5
+R6
+vrippleCarry8bitAdder
+R0
+!i10b 1
+!s100 Q;?SFlDO117_1^4_AQUmd2
+IYVJnKnnMS8c?5k1L_iLmb2
+R1
+R2
+w1519958652
+8D:/code/lab3/adder8bit.v
+FD:/code/lab3/adder8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/code/lab3/adder8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/code/lab3/adder8bit.v|
+!i113 1
+R5
+R6
+nripple@carry8bit@adder
+vtestbench
+R0
+!i10b 1
+!s100 a:QeSjfJH3G:j1J]G85F71
+I:C2_:Q:e;WeFUMj:>TL3j0
+R1
+R2
+w1519958393
+8D:/code/lab3/testbench.v
+FD:/code/lab3/testbench.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/code/lab3/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/code/lab3/testbench.v|
+!i113 1
+R5
+R6
